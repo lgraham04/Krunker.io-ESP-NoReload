@@ -15,4 +15,4 @@ INSTRUCTIONS
 10. Now press Overrides and go back to /Path/To/Krunker.io Override.
 11. Open krunker.io/js folder and open game.js and Select all of the text and paste it using Ctrl+V (Cmd+V).
 12. Save game.js and you should see a purple dot.
-8. Now refresh the page and you are done.
+13. Now refresh the page and you are done.
